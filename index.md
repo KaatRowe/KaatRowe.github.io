@@ -7,4 +7,8 @@ title: "Portfolio Homepage"
 Welcome to my portfolio website!
 
 
-![An adorable red panda climbeing down from a log]{/download.jfif/}
+![An adorable red panda climbeing down from a log](/download.jfif/)
+
+[Projects](/projects/)
+
+
